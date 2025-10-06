@@ -1,6 +1,6 @@
-package day1;
+package com.tnsif.dayone;
 
-public class typecasting {
+public class primitivedatatype {
 
 	public static void main(String[] args) {
 		byte byteMax = 127;
